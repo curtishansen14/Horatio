@@ -37,6 +37,10 @@ namespace Horatio.Models
             return new ApplicationDbContext();
         }
 
-       
+        public System.Data.Entity.DbSet<Horatio.Models.ETA> ETAs { get; set; }
+
+        public System.Data.Entity.DbSet<Horatio.Models.Quest> Quests { get; set; }
+
+        public System.Data.Entity.DbSet<Horatio.Models.Labor> Labors { get; set; }
     }
 }

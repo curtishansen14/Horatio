@@ -64,10 +64,8 @@ c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\bin\Microsof
 c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\bin\Microsoft.Owin.Security.Google.xml
 c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.dll
 c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.pdb
-c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.Migrations.role.resources
-c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.csproj.GenerateResource.Cache
-c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.Migrations.role1.resources
-c:\users\user\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.Migrations.yarn.resources
+C:\Users\User\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.Migrations.hellonope.resources
+C:\Users\User\documents\visual studio 2015\Projects\Horatio\Horatio\obj\Debug\Horatio.csproj.GenerateResource.Cache

@@ -11,20 +11,23 @@ namespace Horatio.Models
     {
         [Key]
         public int Quest_ID { get; set; }
+        [Required]
         public string Title { get; set; }
 
-        [MaxLength(509)]
+        [Required]
+        //[DataType(DataType.MultilineText)]
         public string Description { get; set; }
 
+        [Required]
         [ForeignKey("ETA")]
-        [Display(Name = "Completion Time")]
-        public string Recommended_Completion_Time { get; set; }
+        public int ETA_ID { get; set; }
+        public ETA ETA { get; set; }
         
-        public decimal Rating { get; set; }
+        public decimal? Rating { get; set; }
 
         [Display(Name = "Completed")]
-        public bool isCompleted { get; set; }
+        public bool? isCompleted { get; set; }
 
-        public List<Task> Tasks { get; set; }
+        public List<Labor> Labors { get; set; }
     }
 }
